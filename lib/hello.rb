@@ -11,5 +11,5 @@ def hello_t(array)
         puts 'Hey! No block was given!'
     end
     
-    array
+    arra
 end
